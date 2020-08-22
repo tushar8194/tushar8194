@@ -11,11 +11,9 @@
 
 📫 Reach here:  https://www.linkedin.com/in/tushar8194/
 
-⚡ Interesting fact: I am a curious person and from long time exploring how IT professionals do retire. 🤔 
+
+#### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 
 
 
-
-
----
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar8194&hide=["stars"]&show_icons=true)
