@@ -1,16 +1,21 @@
-### Hi there 👋
+ ### Hi there 👋
 
-<!--
-**tushar8194/tushar8194** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ 🔭 I’m currently working on Spark using scala. I am so much interested in scala.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning scala and I enjoy it.
+
+👯 I’m looking to collaborate on Open Source Projects or any Open Coding Challange.
+
+💬 Ask me about anything on BigData, I would love to discuss.
+
+📫 Reach here:  https://www.linkedin.com/in/tushar8194/
+
+⚡ Interesting fact: I am a curious person and from long time exploring how IT professionals do retire. 🤔 
+
+
+
+
+
+---
+![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar8194&hide=["stars"]&show_icons=true)
