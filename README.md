@@ -10,6 +10,10 @@
 💬 Ask me about anything on BigData, I would love to discuss.
 
 📫 Reach here:  https://www.linkedin.com/in/tushar8194/
+ 
+📫 My NoteBook: https://tushar8194.gitbook.io/spark-scala/
+ 
+📫 Blog: https://tushar8194.blogspot.com
 
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
