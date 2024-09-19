@@ -1,13 +1,14 @@
  ### Hi there 👋
 
 
- 🔭 I’m currently working on Spark using scala. I am so much interested in scala.
+🔭 Current Projects: Actively working on Spark with Scala. I have a deep interest in Scala.
 
-🌱 I’m currently learning scala and I enjoy it.
+🌱 Learning Journey: Experianced in BigData technologies with Spark and AWS Cloud, Currently delving into Scala and thoroughly enjoying the process.
 
-👯 I’m looking to collaborate on Open Source Projects or any Open Coding Challange.
+👯 Collaboration: Open to collaborating on Open Source Projects and coding challenges.
 
-💬 Ask me about anything on BigData, I would love to discuss.
+💬 Let's Connect: Feel free to ask me anything about Big Data. I'm always up for a discussion!
+
 
 <a class="libutton" href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7241680781696217088" target="_blank">Subscribe to LinkedIn Newsletter </a>
 
@@ -19,7 +20,6 @@
 ![Prify Philip's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tushar8194&hide=["stars"]&show_icons=true)
 
 
-📫 Reach here:  https://www.linkedin.com/in/tushar8194/
  
 📫 My NoteBook: https://tushar8194.gitbook.io/spark-scala/
  
